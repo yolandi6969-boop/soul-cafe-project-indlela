@@ -1,0 +1,41 @@
+SOUL CAFE PROJECT INDLELA PARTICIPANT PORTAL
+PUBLIC DEPLOYMENT MANIFEST
+Generated: 2026-07-26T22:05:41
+Recommended repository: soul-cafe-project-indlela
+
+FILES INCLUDED FOR PUBLIC DEPLOYMENT:
+- .nojekyll
+- 404.html
+- data/soul-cafe-status.js
+- documents/Soul Cafe Constitution v0.1.docx
+- documents/Soul Cafe Membership Agreement and Club Rules v0.1.docx
+- documents/Soul Cafe Micro Club Site File v0.3.docx
+- index.html
+- PUBLIC-DEPLOYMENT-MANIFEST.txt
+- README.md
+
+DOWNLOADABLE DOCUMENT PUBLIC REVIEW:
+- Document: Soul Cafe Constitution v0.1.docx
+  Version: 0.1
+  Status: WORKING DRAFT — ADOPTION PENDING
+  Public Review Result: APPROVED FOR PUBLIC INCLUSION — contains placeholders only; no names/contact/ID/private values found
+  Included: YES
+- Document: Soul Cafe Micro Club Site File v0.3.docx
+  Version: 0.3
+  Status: WORKING DRAFT / SITE EVIDENCE PENDING
+  Public Review Result: APPROVED FOR PUBLIC INCLUSION — public deployment copy sanitized to remove internal local paths; no names/contact/ID/private values found
+  Included: YES
+- Document: Soul Cafe Membership Agreement and Club Rules v0.1.docx
+  Version: 0.1
+  Status: WORKING DRAFT — ADOPTION PENDING
+  Public Review Result: APPROVED FOR PUBLIC INCLUSION — no names/contact/ID/private values found
+  Included: YES
+- Document: Soul Cafe Controlled Records Workbook v0.3.xlsx
+  Version: 0.3
+  Status: CONTROLLED INTERNAL RECORD — ACCESS ON REQUEST
+  Public Review Result: EXCLUDED — internal workbook may contain private operational/member data
+  Included: NO
+
+PUBLIC PACKAGE AUDIT SUMMARY:
+- Findings requiring removal before publication: 0
+  - No scanned occurrences found for internal paths, local server references, common PII patterns, secrets/tokens, or unnecessary reviewer names.
