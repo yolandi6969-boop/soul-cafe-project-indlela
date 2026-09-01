@@ -1,18 +1,21 @@
 # Soul Cafe Project Indlela Participant Portal
 
 ## Project
-Soul Cafe Project Indlela Participant Portal — SC-08 governance, Responsible Person, Constitution adoption and operational confirmation readiness update.
+Soul Cafe Project Indlela Participant Portal — SC-09 premises, storage, security and closed-loop supply readiness update.
 
-## Repository
-`soul-cafe-project-indlela`
+## Live Portal
+https://yolandi6969-boop.github.io/soul-cafe-project-indlela/
 
-## Purpose
-Static external readiness/site-file view prepared for GitHub Pages. The portal displays public-safe readiness information generated from the private controlled Soul Cafe records workbook.
+## Current Public Status
+- Readiness: 93.9%
+- Critical actions: 0
+- Go-Live result: GO-LIVE READY
+- Premises/storage/security/access arrangements recorded in controlled participant record
+- Bitou no longer applicable as current Soul Cafe supply dependency
+- Supply model: growers through Leap Here closed loop according to verified member demand
 
-## Source of truth
-This website is **not** the controlled participant record. Controlled records remain within the private Project Indlela operating environment, including the controlled Soul Cafe Site File, Controlled Records Workbook, Leap Here/fallback records, supporting evidence and the Master Controlled Document Register.
+## Public Safety Boundary
+This repository contains only the sanitized participant portal/public document copies. The controlled workbook, CIPC evidence, MOI, private residence/security detail, Leap Here credentials, member records and private evidence remain outside this public repository.
 
-## Public data boundary
-Do not commit member personal information, identity numbers, phone numbers, email addresses, private evidence, Controlled Records Workbooks, internal registers, archive material, credentials, access codes, security details, private supply agreements, Leap Here usernames, passwords or private system identifiers.
-
-The original CIPC PDF and the Controlled Records Workbook remain private and are not included in this repository.
+## Phase
+SC-09 — Premises, Storage, Security and Closed-Loop Supply Update.
