@@ -1,5 +1,5 @@
 SOUL CAFE PROJECT INDLELA PARTICIPANT PORTAL
-PUBLIC DEPLOYMENT MANIFEST — SC-06
+PUBLIC DEPLOYMENT MANIFEST — SC-07
 Generated: 2026-09-01
 Repository: soul-cafe-project-indlela
 
@@ -11,40 +11,21 @@ FILES INCLUDED FOR PUBLIC DEPLOYMENT:
 - assets/submission-intake.js
 - documents/Soul Cafe Constitution v0.1.docx
 - documents/Soul Cafe Membership Agreement and Club Rules v0.1.docx
-- documents/Soul Cafe Micro Club Site File v0.4 - Public Copy.docx
+- documents/Soul Cafe Micro Club Site File v0.5 - Public Copy.docx
 - index.html
 - PUBLIC-DEPLOYMENT-MANIFEST.txt
 - README.md
 
 DOWNLOADABLE DOCUMENT PUBLIC REVIEW:
-- Document: Soul Cafe Constitution v0.1.docx
-  Version: 0.1
-  Status: WORKING DRAFT — ADOPTION PENDING
-  Public Review Result: APPROVED FOR PUBLIC INCLUSION — contains placeholders only; no ID/private CIPC values found
-  Included: YES
-- Document: Soul Cafe Micro Club Site File v0.4 - Public Copy.docx
-  Version: 0.4 public copy
-  Status: CIPC NPC REGISTRATION VERIFIED — OPERATIONAL EVIDENCE STILL PENDING
-  Public Review Result: APPROVED FOR PUBLIC INCLUSION — public copy sanitised; no director ID numbers, private residential addresses, local Hermes paths, private evidence paths, customer code or tracking number
-  Included: YES
-- Document: Soul Cafe Membership Agreement and Club Rules v0.1.docx
-  Version: 0.1
-  Status: WORKING DRAFT — ADOPTION PENDING
-  Public Review Result: APPROVED FOR PUBLIC INCLUSION — no ID/private CIPC values found
-  Included: YES
-- Document: Soul Cafe Controlled Records Workbook v0.4.xlsx
-  Version: 0.4
-  Status: PRIVATE CONTROLLED RECORD SYSTEM
-  Public Review Result: EXCLUDED — internal workbook remains private and may contain controlled operational/member data
-  Included: NO
-- Evidence: Original CIPC PDF
-  Status: PRIVATE CONTROLLED SUPPORTING EVIDENCE
-  Public Review Result: EXCLUDED — original evidence contains director ID numbers/private addresses/customer code/tracking number
-  Included: NO
+- Document: Soul Cafe Constitution v0.1.docx — Included: YES; Public Review Result: no ID/private Leap Here/CIPC values found.
+- Document: Soul Cafe Membership Agreement and Club Rules v0.1.docx — Included: YES; Public Review Result: no ID/private Leap Here/CIPC values found.
+- Document: Soul Cafe Micro Club Site File v0.5 - Public Copy.docx — Included: YES; Public Review Result: public copy sanitised; no local Hermes paths, member PII, Leap Here credentials/usernames/internal identifiers, director ID numbers or private residential addresses.
+- Document: Soul Cafe Controlled Records Workbook v0.5.xlsx — Included: NO; private controlled record system.
+- Evidence: Original CIPC PDF — Included: NO; private controlled supporting evidence.
 
 PUBLIC PACKAGE AUDIT SUMMARY:
 - Findings requiring removal before publication: 0
 - No public CIPC PDF included.
-- No director ID numbers or private director addresses included.
-- No local C:\\Hermes paths included.
-- No controlled records workbook included.
+- No Controlled Records Workbook included.
+- No Leap Here credentials, usernames or private system identifiers included.
+- No local Windows project paths included.
