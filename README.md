@@ -1,19 +1,18 @@
 # Soul Cafe Project Indlela Participant Portal
 
 ## Project
-Soul Cafe Project Indlela Participant Portal
+Soul Cafe Project Indlela Participant Portal — SC-06 CIPC evidence readiness update.
 
-## Recommended repository name
+## Repository
 `soul-cafe-project-indlela`
 
 ## Purpose
-Static external readiness/site-file view prepared for GitHub Pages.
-
-## Public data warning
-Everything committed to this repository should be treated as public. Do not commit member personal information, identity numbers, phone numbers, email addresses, private evidence, Controlled Records Workbooks, internal registers, archive material, secrets, tokens, API keys, security details or private supply agreements.
+Static external readiness/site-file view prepared for GitHub Pages. The portal displays public-safe readiness information generated from the private controlled Soul Cafe records workbook.
 
 ## Source of truth
-This website is not the controlled participant record. Controlled records remain within the private Project Indlela operating environment, including controlled Soul Cafe documents, the controlled records workbook, Leap Here, supporting evidence and the Master Controlled Document Register.
+This website is **not** the controlled participant record. Controlled records remain within the private Project Indlela operating environment, including the controlled Soul Cafe Site File, Controlled Records Workbook, Leap Here/fallback records, supporting evidence and the Master Controlled Document Register.
 
-## Deployment
-Prepared for GitHub Pages. No repository has been created and nothing has been published by this preparation step.
+## Public data boundary
+Do not commit member personal information, identity numbers, phone numbers, email addresses, private evidence, Controlled Records Workbooks, internal registers, archive material, credentials, access codes, security details or private supply agreements.
+
+The original CIPC PDF is private controlled supporting evidence and is not included in this repository.
