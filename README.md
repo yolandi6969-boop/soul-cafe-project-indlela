@@ -1,7 +1,7 @@
 # Soul Cafe Project Indlela Participant Portal
 
 ## Project
-Soul Cafe Project Indlela Participant Portal — SC-07 Leap Here implementation readiness update.
+Soul Cafe Project Indlela Participant Portal — SC-08 governance, Responsible Person, Constitution adoption and operational confirmation readiness update.
 
 ## Repository
 `soul-cafe-project-indlela`

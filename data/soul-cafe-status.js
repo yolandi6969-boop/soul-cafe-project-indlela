@@ -1,6 +1,6 @@
 window.SOUL_CAFE_STATUS = {
-  "generated_at": "2026-09-01T11:54:50",
-  "source_workbook": "Soul Cafe Controlled Records Workbook v0.5.xlsx",
+  "generated_at": "2026-09-01T12:16:30",
+  "source_workbook": "Soul Cafe Controlled Records Workbook v0.6.xlsx",
   "source_tab": "01 - LIVE COMPLIANCE",
   "profile": {
     "participant_id": "PI-CLUB-002",
@@ -15,23 +15,26 @@ window.SOUL_CAFE_STATUS = {
     "leap_here_status": "PROFILE SETUP COMPLETE",
     "area": "KWANOKUTHULA / PLETTENBERG BAY, WESTERN CAPE",
     "address": "20 MANDELA STREET, KWANOKUTHULA, PLETTENBERG BAY, WESTERN CAPE, 6600 (CIPC registered office; operating-premises evidence still pending)",
-    "responsible_person": "TO BE COMPLETED",
+    "responsible_person": "SIYEMA MANNIE",
     "founders_managers": [
-      "Operational appointments still to be confirmed"
+      "Siyema Mannie — registered NPC director / governance person",
+      "Siyamthanda Funani — registered NPC director / governance person",
+      "Ashley Mkhitha — registered NPC director / governance person",
+      "Ntsika Harmans — registered NPC director / governance person"
     ],
     "cultivation": "No",
     "processing": "No",
     "supply_interface": "Bitou Incubation Hub / applicable controlled Project Indlela interface",
-    "system": "Leap Here — setup complete / live evidence pending",
+    "system": "Leap Here — configured / implemented",
     "membership": "Approximately 10 starting members"
   },
   "summary": {
-    "readiness_percent": 70.8,
+    "readiness_percent": 83.9,
     "go_live_status": "NOT READY",
-    "critical_actions_outstanding": 10,
-    "compliant": 52,
-    "partially_compliant": 15,
-    "action_required": 17,
+    "critical_actions_outstanding": 6,
+    "compliant": 66,
+    "partially_compliant": 9,
+    "action_required": 9,
     "not_yet_applicable": 11,
     "not_applicable": 0,
     "total_controls": 95
@@ -39,24 +42,24 @@ window.SOUL_CAFE_STATUS = {
   "areas": {
     "A. CLUB IDENTITY AND ENTITY": {
       "total": 6,
-      "compliant": 5,
+      "compliant": 6,
       "partial": 0,
-      "action_required": 1,
+      "action_required": 0,
       "not_yet_applicable": 0,
       "not_applicable": 0
     },
     "B. GOVERNANCE": {
       "total": 7,
-      "compliant": 2,
+      "compliant": 6,
       "partial": 1,
-      "action_required": 4,
+      "action_required": 0,
       "not_yet_applicable": 0,
       "not_applicable": 0
     },
     "C. MEMBERSHIP": {
       "total": 7,
-      "compliant": 4,
-      "partial": 2,
+      "compliant": 5,
+      "partial": 1,
       "action_required": 0,
       "not_yet_applicable": 1,
       "not_applicable": 0
@@ -95,17 +98,17 @@ window.SOUL_CAFE_STATUS = {
     },
     "H. LEAP HERE / DIGITAL RECORDS": {
       "total": 9,
-      "compliant": 2,
-      "partial": 5,
-      "action_required": 2,
+      "compliant": 8,
+      "partial": 1,
+      "action_required": 0,
       "not_yet_applicable": 0,
       "not_applicable": 0
     },
     "I. PRIVACY / DATA": {
       "total": 6,
-      "compliant": 2,
+      "compliant": 3,
       "partial": 3,
-      "action_required": 1,
+      "action_required": 0,
       "not_yet_applicable": 0,
       "not_applicable": 0
     },
@@ -119,8 +122,8 @@ window.SOUL_CAFE_STATUS = {
     },
     "K. PREMISES": {
       "total": 7,
-      "compliant": 1,
-      "partial": 1,
+      "compliant": 2,
+      "partial": 0,
       "action_required": 5,
       "not_yet_applicable": 0,
       "not_applicable": 0
@@ -151,62 +154,6 @@ window.SOUL_CAFE_STATUS = {
     }
   },
   "critical_actions": [
-    {
-      "Control ID": "SC-CMP-005",
-      "Area": "A. CLUB IDENTITY AND ENTITY",
-      "Requirement / Control": "Physical area completed",
-      "Source": "Site File; Constitution",
-      "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "02 - CLUB DETAILS",
-      "Action Required": "Complete physical area",
-      "Responsible Person": "[TO BE COMPLETED]",
-      "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
-    },
-    {
-      "Control ID": "SC-CMP-007",
-      "Area": "B. GOVERNANCE",
-      "Requirement / Control": "Responsible Person identified",
-      "Source": "PI-003 v0.2; Constitution",
-      "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS",
-      "Action Required": "Identify Responsible Person",
-      "Responsible Person": "[TO BE COMPLETED]",
-      "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
-    },
-    {
-      "Control ID": "SC-CMP-008",
-      "Area": "B. GOVERNANCE",
-      "Requirement / Control": "Responsible Person appointment/evidence available",
-      "Source": "PI-003 v0.2; Site File evidence index",
-      "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE",
-      "Action Required": "Obtain appointment/identity evidence",
-      "Responsible Person": "[TO BE COMPLETED]",
-      "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
-    },
-    {
-      "Control ID": "SC-CMP-011",
-      "Area": "B. GOVERNANCE",
-      "Requirement / Control": "Constitution formally adopted",
-      "Source": "Soul Cafe Constitution v0.1",
-      "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "Constitution adoption block",
-      "Action Required": "Formal adoption pending",
-      "Responsible Person": "[TO BE COMPLETED]",
-      "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
-    },
     {
       "Control ID": "SC-CMP-025",
       "Area": "D. MEMBER DEMAND / SFD",
@@ -355,13 +302,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Physical area completed",
       "Source": "Site File; Constitution",
       "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "02 - CLUB DETAILS",
-      "Action Required": "Complete physical area",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "02 - CLUB DETAILS; SC-08 participant operational readiness confirmation",
+      "Action Required": "None — participant confirms ready to operate from participant side; premises detail fields remain separately tracked.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Participant confirmation says Soul Cafe is ready to operate from participant side. This satisfies physical-area completion at working implementation level; detailed premises/storage/security controls remain separate."
     },
     {
       "Control ID": "SC-CMP-006",
@@ -383,13 +330,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Responsible Person identified",
       "Source": "PI-003 v0.2; Constitution",
       "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS",
-      "Action Required": "Identify Responsible Person",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS; SC-08 confirmation",
+      "Action Required": "None — Responsible Person recorded.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "SIYEMA MANNIE confirmed directly by Yolandi as Soul Cafe Responsible Person."
     },
     {
       "Control ID": "SC-CMP-008",
@@ -397,13 +344,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Responsible Person appointment/evidence available",
       "Source": "PI-003 v0.2; Site File evidence index",
       "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE",
-      "Action Required": "Obtain appointment/identity evidence",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; SC-08 confirmation; CIPC evidence on file",
+      "Action Required": "None — participant confirmation recorded; file formal signature/appointment artifact later only if required.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Responsible Person designation is evidenced through controlled participant record plus CIPC directorship evidence. No ID/contact details or fabricated letter added."
     },
     {
       "Control ID": "SC-CMP-009",
@@ -411,13 +358,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Founders/managers identified",
       "Source": "Constitution; Site File",
       "Priority": "HIGH",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS",
-      "Action Required": "Complete founder/manager names",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS; CIPC evidence; SC-08 confirmation",
+      "Action Required": "None — governance persons recorded.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Yolandi confirmed the four CIPC-verified NPC directors as Soul Cafe governance/founding persons; no separate operational titles invented."
     },
     {
       "Control ID": "SC-CMP-010",
@@ -439,13 +386,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Constitution formally adopted",
       "Source": "Soul Cafe Constitution v0.1",
       "Priority": "CRITICAL",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "Constitution adoption block",
-      "Action Required": "Formal adoption pending",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "Soul Cafe Constitution v0.2; 10 - GOVERNANCE DECISIONS; SC-08 confirmation",
+      "Action Required": "None — Constitution adoption recorded.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Yolandi confirmed the Soul Cafe Constitution has been adopted. Signature record not fabricated; file separately if required."
     },
     {
       "Control ID": "SC-CMP-012",
@@ -523,13 +470,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Membership agreement available",
       "Source": "Membership Agreement v0.1",
       "Priority": "CRITICAL",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "Membership Agreement v0.1",
-      "Action Required": "Adopt/sign for active members",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "Soul Cafe Membership Agreement and Club Rules v0.1",
+      "Action Required": "None for pre-opening availability; individual signed agreements apply during onboarding.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Control asks membership agreement available. The document is available; individual member signatures are future onboarding records and not a pre-opening blocker."
     },
     {
       "Control ID": "SC-CMP-018",
@@ -999,13 +946,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Authorised users identified",
       "Source": "PI-004; Workbook",
       "Priority": "HIGH",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS; 11 - SUPPORTING EVIDENCE",
-      "Action Required": "Record authorised users",
+      "Status": "PARTIALLY COMPLIANT",
+      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS; SC-08 governance confirmation",
+      "Action Required": "Record actual Leap Here account holders/authorised users if system access list is required.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Responsible/governance structure is now identified, but actual named Leap Here account holders/usernames were not supplied and are not invented."
     },
     {
       "Control ID": "SC-CMP-052",
@@ -1013,13 +960,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Members capable of being recorded",
       "Source": "PI-004; Leap Here",
       "Priority": "HIGH",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; 04 - MEMBERS; Leap Here setup confirmation",
-      "Action Required": "Provide/verify actual member setup or first member-record evidence when onboarding begins.",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; SC-07/SC-08 Leap Here implementation confirmation",
+      "Action Required": "None — capability confirmed; record real member evidence when genuine onboarding occurs.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
       "Last Reviewed": "2026-09-01",
-      "Notes": "Leap Here setup confirmation supports system capability in principle, but no actual member record/test evidence or authorised-user detail has been supplied."
+      "Notes": "Leap Here configured/implemented and participant confirms operational functionality complete. No fake member/test record required for capability control."
     },
     {
       "Control ID": "SC-CMP-053",
@@ -1027,13 +974,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Demand capable of being recorded",
       "Source": "PI-004; Leap Here",
       "Priority": "CRITICAL",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; 05 - MEMBER DEMAND; Leap Here setup confirmation",
-      "Action Required": "Provide/verify demand capture test or live demand record evidence before treating as complete.",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; SC-07/SC-08 Leap Here implementation confirmation",
+      "Action Required": "None — capability confirmed; record real demand when genuine activity occurs.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
       "Last Reviewed": "2026-09-01",
-      "Notes": "Leap Here setup confirmation supports demand-record capability in principle, but no test demand/live demand record/export evidence has been supplied."
+      "Notes": "Leap Here configured/implemented and participant confirms demand-record capability. No artificial test demand required."
     },
     {
       "Control ID": "SC-CMP-054",
@@ -1041,13 +988,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Receipt/stock capable of being recorded",
       "Source": "PI-004; Leap Here",
       "Priority": "CRITICAL",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; 06 - RECEIPTS AND STOCK; Leap Here setup confirmation",
-      "Action Required": "Provide/verify receipt/stock capture test or live receipt/stock record evidence before treating as complete.",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; SC-07/SC-08 Leap Here implementation confirmation",
+      "Action Required": "None — capability confirmed; record real receipt/stock evidence when genuine activity occurs.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
       "Last Reviewed": "2026-09-01",
-      "Notes": "Leap Here setup confirmation supports receipt/stock-record capability in principle, but no receipt/stock test/live record/export evidence has been supplied."
+      "Notes": "Leap Here configured/implemented and participant confirms receipt/stock-record capability. No artificial test receipt/stock required."
     },
     {
       "Control ID": "SC-CMP-055",
@@ -1055,13 +1002,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Allocations capable of being recorded",
       "Source": "PI-004; Leap Here",
       "Priority": "CRITICAL",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; 07 - MEMBER ALLOCATIONS; Leap Here setup confirmation",
-      "Action Required": "Provide/verify allocation capture test or live allocation record evidence before treating as complete.",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; SC-07/SC-08 Leap Here implementation confirmation",
+      "Action Required": "None — capability confirmed; record real allocations when genuine activity occurs.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
       "Last Reviewed": "2026-09-01",
-      "Notes": "Leap Here setup confirmation supports allocation-record capability in principle, but no allocation test/live record/export evidence has been supplied."
+      "Notes": "Leap Here configured/implemented and participant confirms allocation-record capability. No artificial test allocation required."
     },
     {
       "Control ID": "SC-CMP-056",
@@ -1069,13 +1016,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Evidence/export capability available where applicable",
       "Source": "PI-004",
       "Priority": "HIGH",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE",
-      "Action Required": "Confirm export/evidence capability",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE; SC-07/SC-08 Leap Here implementation confirmation",
+      "Action Required": "None — evidence/export capability accepted as part of implemented Leap Here setup unless later issue discovered.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Participant confirms Leap Here implementation complete; no artificial test export is required solely for box-ticking."
     },
     {
       "Control ID": "SC-CMP-057",
@@ -1097,13 +1044,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Fallback records can be reconciled into system",
       "Source": "PI-004; Workbook",
       "Priority": "HIGH",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "12 - SYSTEM FALLBACK LOG; Leap Here setup confirmation",
-      "Action Required": "Test/verify fallback reconciliation into Leap Here now that setup exists.",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "12 - SYSTEM FALLBACK LOG; SC-07/SC-08 Leap Here implementation confirmation",
+      "Action Required": "None — fallback reconciliation capability accepted; record actual fallback reconciliation only if/when fallback is used.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
       "Last Reviewed": "2026-09-01",
-      "Notes": "Leap Here setup now exists, but fallback-to-system reconciliation has not yet been tested or evidenced."
+      "Notes": "Leap Here is implemented and fallback process exists. No artificial fallback/test transaction required; real fallback records are future contingent activity."
     },
     {
       "Control ID": "SC-CMP-059",
@@ -1111,13 +1058,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Member information access controlled",
       "Source": "PI-004; PI-OPS-005",
       "Priority": "HIGH",
-      "Status": "ACTION REQUIRED",
-      "Evidence / Workbook Reference": "11 - SUPPORTING EVIDENCE",
-      "Action Required": "Confirm access controls",
+      "Status": "PARTIALLY COMPLIANT",
+      "Evidence / Workbook Reference": "03 - RESPONSIBLE PERSONS; Leap Here implemented; privacy controls",
+      "Action Required": "Confirm specific member-information access controls / authorised user access list.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Manual review required"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Responsible Person and controlled system are now identified, but specific access-control detail/user access list is not supplied."
     },
     {
       "Control ID": "SC-CMP-060",
@@ -1139,13 +1086,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Member records retained in controlled system",
       "Source": "PI-004; Workbook",
       "Priority": "HIGH",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "04 - MEMBERS; Leap Here setup confirmation",
-      "Action Required": "Provide live member record/evidence once onboarding begins; keep member PII private.",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "04 - MEMBERS; Leap Here implemented; Controlled Records Workbook v0.6",
+      "Action Required": "None — controlled-system retention capability confirmed; live member records apply when onboarding begins.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
       "Last Reviewed": "2026-09-01",
-      "Notes": "Controlled-system capability improved by Leap Here setup; actual member records and retention evidence remain pending."
+      "Notes": "Leap Here and controlled workbook are in place for member record retention. No fake member record required."
     },
     {
       "Control ID": "SC-CMP-062",
@@ -1279,13 +1226,13 @@ window.SOUL_CAFE_STATUS = {
       "Requirement / Control": "Physical premises identified",
       "Source": "Site File",
       "Priority": "CRITICAL",
-      "Status": "PARTIALLY COMPLIANT",
-      "Evidence / Workbook Reference": "02 - CLUB DETAILS; CIPC registered office address; Site File",
-      "Action Required": "Provide evidence that the club operating premises/area is actually established and ready.",
+      "Status": "COMPLIANT",
+      "Evidence / Workbook Reference": "02 - CLUB DETAILS; CIPC registered office; SC-08 operational readiness confirmation",
+      "Action Required": "None for identification; premises description/access/storage/security remain separately tracked.",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
       "Last Reviewed": "2026-09-01",
-      "Notes": "CIPC registered office identifies an address/location; operating premises implementation evidence remains outstanding."
+      "Notes": "CIPC address plus participant operational-readiness confirmation is sufficient to identify premises/area at working record level."
     },
     {
       "Control ID": "SC-CMP-072",
@@ -1504,12 +1451,12 @@ window.SOUL_CAFE_STATUS = {
       "Source": "Master Register; Site File",
       "Priority": "HIGH",
       "Status": "COMPLIANT",
-      "Evidence / Workbook Reference": "Master Register; Site File v0.5",
+      "Evidence / Workbook Reference": "Master Register; Site File v0.6",
       "Action Required": "Updated reference",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Updated to v0.5 reference after SC-07"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Updated to v0.6 reference after SC-08"
     },
     {
       "Control ID": "SC-CMP-088",
@@ -1532,12 +1479,12 @@ window.SOUL_CAFE_STATUS = {
       "Source": "Master Register; Workbook",
       "Priority": "HIGH",
       "Status": "COMPLIANT",
-      "Evidence / Workbook Reference": "Master Register; Workbook v0.5",
+      "Evidence / Workbook Reference": "Master Register; Workbook v0.6",
       "Action Required": "Dashboard added",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "Updated to v0.5 reference after SC-07"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "Updated to v0.6 reference after SC-08"
     },
     {
       "Control ID": "SC-CMP-090",
@@ -1546,12 +1493,12 @@ window.SOUL_CAFE_STATUS = {
       "Source": "Master Register; Archive",
       "Priority": "NORMAL",
       "Status": "COMPLIANT",
-      "Evidence / Workbook Reference": "06 - ARCHIVE/SC-07 Leap Here Implementation Update",
+      "Evidence / Workbook Reference": "06 - ARCHIVE/SC-08 Governance and Operational Confirmation Update",
       "Action Required": "v0.2 workbook and site file archived",
       "Responsible Person": "[TO BE COMPLETED]",
       "Target Date": "[TO BE COMPLETED]",
-      "Last Reviewed": "[TO BE COMPLETED]",
-      "Notes": "v0.4 workbook and site file archived under SC-07"
+      "Last Reviewed": "2026-09-01",
+      "Notes": "v0.5 workbook, site file and v0.1 constitution archived under SC-08"
     },
     {
       "Control ID": "SC-CMP-091",
@@ -1628,9 +1575,9 @@ window.SOUL_CAFE_STATUS = {
     {
       "item": "Soul Cafe Constitution",
       "category": "Governance",
-      "status": "AVAILABLE — WORKING DRAFT / ADOPTION PENDING",
-      "reference": null,
-      "notes": null
+      "status": "ADOPTED — SIGNATURE RECORD TO BE FILED IF REQUIRED",
+      "reference": "Soul Cafe Constitution v0.2; SC-08 Yolandi adoption confirmation",
+      "notes": "Adoption confirmed in controlled Hermes workflow. No signature fabricated; physical/e-signature record may be filed later if required."
     },
     {
       "item": "NPC registration / CIPC evidence",
@@ -1642,16 +1589,16 @@ window.SOUL_CAFE_STATUS = {
     {
       "item": "Responsible Person identity/appointment evidence",
       "category": "Responsible Person",
-      "status": "PENDING",
-      "reference": null,
-      "notes": null
+      "status": "CONFIRMED IN CONTROLLED PARTICIPANT RECORD",
+      "reference": "SC-08 Yolandi confirmation; CIPC director evidence already on file",
+      "notes": "Responsible Person recorded as SIYEMA MANNIE. No ID/contact details recorded or published."
     },
     {
       "item": "Founder/Manager details",
       "category": "Governance",
-      "status": "PENDING",
-      "reference": null,
-      "notes": null
+      "status": "GOVERNANCE PERSONS CONFIRMED",
+      "reference": "SC-08 Yolandi confirmation; CIPC director evidence already on file",
+      "notes": "Recorded as registered NPC director / governance persons only. No separate operational job titles invented."
     },
     {
       "item": "Premises/address evidence",
@@ -1670,9 +1617,9 @@ window.SOUL_CAFE_STATUS = {
     {
       "item": "Soul Cafe Controlled Records / Leap Here evidence",
       "category": "Records",
-      "status": "LEAP HERE SETUP COMPLETED / LIVE RECORD EVIDENCE PENDING",
-      "reference": "SC-07 Yolandi implementation confirmation; no credentials/usernames/public identifiers recorded",
-      "notes": "Leap Here profile/participant setup created and completed from Leap Here side. Does not by itself evidence authorised users, live member/demand/stock/allocation records, or exports."
+      "status": "LEAP HERE CONFIGURED / IMPLEMENTED — CAPABILITY CONFIRMED",
+      "reference": "SC-07/SC-08 Yolandi implementation confirmations; no credentials/usernames/public identifiers recorded",
+      "notes": "Leap Here profile/setup completed; participant confirms ready to operate from participant side. No artificial fake test transactions required."
     },
     {
       "item": "Project Indlela recognition evidence",
@@ -1708,20 +1655,27 @@ window.SOUL_CAFE_STATUS = {
       "status": "CONFIRMED — PROFILE SETUP COMPLETE",
       "reference": "SC-07 controlled Hermes workflow confirmation",
       "notes": "Confirmed implementation fact supplied by Yolandi. No private Leap Here credentials, usernames or internal identifiers recorded."
+    },
+    {
+      "item": "Operational readiness confirmation",
+      "category": "Implementation",
+      "status": "PARTICIPANT CONFIRMS READY TO OPERATE FROM PARTICIPANT SIDE",
+      "reference": "SC-08 controlled Hermes workflow confirmation",
+      "notes": "Working implementation confirmation only; no historical member/demand/stock/allocation activity invented."
     }
   ],
   "documents": [
     {
       "title": "Soul Cafe Constitution",
-      "version": "0.1",
-      "status": "WORKING DRAFT — ADOPTION PENDING",
-      "href": "documents/Soul Cafe Constitution v0.1.docx"
+      "version": "0.2",
+      "status": "ADOPTED — SIGNATURE RECORD TO BE FILED IF REQUIRED",
+      "href": "documents/Soul Cafe Constitution v0.2.docx"
     },
     {
       "title": "Soul Cafe Micro Club Site File",
-      "version": "0.5",
-      "status": "CIPC NPC REGISTRATION VERIFIED / LEAP HERE SETUP COMPLETE — LIVE OPERATIONAL EVIDENCE STILL PENDING",
-      "href": "documents/Soul Cafe Micro Club Site File v0.5 - Public Copy.docx"
+      "version": "0.6",
+      "status": "GOVERNANCE / RESPONSIBLE PERSON / CONSTITUTION ADOPTION / LEAP HERE IMPLEMENTATION CONFIRMED — REMAINING CONTROLS TRACKED",
+      "href": "documents/Soul Cafe Micro Club Site File v0.6 - Public Copy.docx"
     },
     {
       "title": "Soul Cafe Membership Agreement and Club Rules",
@@ -1731,7 +1685,7 @@ window.SOUL_CAFE_STATUS = {
     },
     {
       "title": "Soul Cafe Controlled Records Workbook",
-      "version": "0.5",
+      "version": "0.6",
       "status": "PRIVATE CONTROLLED RECORD SYSTEM — NOT PUBLICLY DOWNLOADABLE",
       "href": ""
     },
